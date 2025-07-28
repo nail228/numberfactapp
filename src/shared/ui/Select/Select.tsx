@@ -32,7 +32,6 @@ export const Select: React.FC<SelectProps> = ({ value, onChange, options, label 
                     border: '2px solid #e1e5e9',
                     borderRadius: '8px',
                     fontSize: '16px',
-                    background: 'white',
                     cursor: 'pointer'
                 }}
             >
